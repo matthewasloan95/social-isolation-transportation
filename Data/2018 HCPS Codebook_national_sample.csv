@@ -1,0 +1,1331 @@
+Variable,Variable Label,Value,Value Label
+LGBT,DATA-ONLY: LGBTID,-1,Unknown
+,,1,Gay/lesbian
+,,2,Straight (that is not gay/lesbian)
+,,3,Bisexual
+,,4,Transgender
+,,5,Other
+,,6,Prefer not to say
+Q1,[What I'd really like to do is remain in my community for as long as possible] How strongly do you agree or disagree with the statement:,1,Strongly disagree
+,,2,Somewhat disagree
+,,3,Neither agree nor disagree
+,,4,Somewhat agree
+,,5,Strongly agree
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q2,[What I'd really like to do is stay in my current residence for as long as possible] How strongly do you agree or disagree with the statement:,1,Strongly disagree
+,,2,Somewhat disagree
+,,3,Neither agree nor disagree
+,,4,Somewhat agree
+,,5,Strongly agree
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q3,"Thinking about your future years, are you more likely to...?",1,Move to a different community
+,,2,Move into a different residence within your current community
+,,3,Stay in your current residence and never move
+,,77,Not sure
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q4A,"[A full bath on the main level] Thinking about your current home, does it have...?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q4B,"[A half bath on the main level] Thinking about your current home, does it have...?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q4C,"[A bedroom, or a room that could be used as one, on the main level] Thinking about your current home, does it have...?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q4D,"[Doorways that are wider than the standard 28 to 32 inches] Thinking about your current home, does it have...?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q4E,"[Door handles that are levers instead of knobs] Thinking about your current home, does it have...?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q4F,"[An entrance without steps] Thinking about your current home, does it have...?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q4G,"[A sidewalk or walkway in front of my home that allows easy access to a driveway and/or the street] Thinking about your current home, does it have...?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q5,Which of the following types of homes best describes where you currently live?,1,A single family house
+,,2,A two family house or a lot that has two separate living units
+,,3,A townhouse or row house
+,,4,An apartment
+,,5,A condominium
+,,6,A co-op
+,,7,A mobile home
+,,8,Senior housing or assisted living facility
+,,9,Or do you live in some other type of living arrangement? Please specify:
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q6,Do you own or rent your residence?,1,Own
+,,2,Rent
+,,3,Live with family or others
+,,4,Live with family or others and do not pay rent
+,,5,Some other living arrangement - please specify:
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q7,"Do you think you will need to make changes or modifications to your home to enable you or other family members to continue living in your home, when you or your family members reach an age where some physical assistance may be needed?",1,Yes
+,,2,No
+,,77,Not sure
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q8A,"[Easier access into or within your home such as a ramp, chairlift or elevator, or wider doorways] Do you think you will need to make the following types of modifications or improvements to your home to enable you or a family member to stay there when you o",1,Yes
+,,2,No
+,,3,I already have this feature in my home
+,,77,Not sure
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q8B,"[Bathroom modifications such as grab bars, handrails, higher toilet, non-slip tile or no-step shower] Do you think you will need to make the following types of modifications or improvements to your home to enable you or a family member to stay there when y",1,Yes
+,,2,No
+,,3,I already have this feature in my home
+,,77,Not sure
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q8C,"[Putting a bedroom, bathroom and kitchen on the first floor] Do you think you will need to make the following types of modifications or improvements to your home to enable you or a family member to stay there when you or your family members reach an age wh",1,Yes
+,,2,No
+,,3,I already have this feature in my home
+,,77,Not sure
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q8D,"[Improving lighting inside your home including areas such as hallways, stairs, bathrooms and living spaces] Do you think you will need to make the following types of modifications or improvements to your home to enable you or a family member to stay there",1,Yes
+,,2,No
+,,3,I already have this feature in my home
+,,77,Not sure
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q8E,[Improving lighting around the outside of your home including entryways and driveways] Do you think you will need to make the following types of modifications or improvements to your home to enable you or a family member to stay there when you or your fami,1,Yes
+,,2,No
+,,3,I already have this feature in my home
+,,77,Not sure
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q8F,[Installing a medical emergency response system that notifies others in case of emergency] Do you think you will need to make the following types of modifications or improvements to your home to enable you or a family member to stay there when you or your,1,Yes
+,,2,No
+,,3,I already have this feature in my home
+,,77,Not sure
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q8G,[Other type of modification - please specify: ] Do you think you will need to make the following types of modifications or improvements to your home to enable you or a family member to stay there when you or your family members reach an age where some phys,1,Yes
+,,2,No
+,,3,I already have this feature in my home
+,,77,Not sure
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q9,Do you currently have an ADU on your property?,1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q11,"If you had the space to create an ADU within your home or on your property, would you consider doing that?",1,Yes
+,,2,No
+,,77,Not sure
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q12A,"[To earn extra income from rent] For each of the following reasons choose whether each one is a major reason, a minor reason, or not a reason for building an ADU on your property [or purchasing a property with an ADU]:",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q12B,"[To have a place for guests to stay] For each of the following reasons choose whether each one is a major reason, a minor reason, or not a reason for building an ADU on your property [or purchasing a property with an ADU]:",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q12C,"[To have a place for a loved one to stay who needs care] For each of the following reasons choose whether each one is a major reason, a minor reason, or not a reason for building an ADU on your property [or purchasing a property with an ADU]:",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q12D,"[To have a place for a caregiver to stay] For each of the following reasons choose whether each one is a major reason, a minor reason, or not a reason for building an ADU on your property [or purchasing a property with an ADU]:",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q12E,"[To provide a home for family members or friends] For each of the following reasons choose whether each one is a major reason, a minor reason, or not a reason for building an ADU on your property [or purchasing a property with an ADU]:",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q12F,"[To increase the value of your home] For each of the following reasons choose whether each one is a major reason, a minor reason, or not a reason for building an ADU on your property [or purchasing a property with an ADU]:",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q12G,"[To provide affordable housing in your community] For each of the following reasons choose whether each one is a major reason, a minor reason, or not a reason for building an ADU on your property [or purchasing a property with an ADU]:",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q12H,"[To have someone living close by and feel more secure] For each of the following reasons choose whether each one is a major reason, a minor reason, or not a reason for building an ADU on your property [or purchasing a property with an ADU]:",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q13A,"[The cost of modifying your home or building an additional structure on your property] For each of the following reasons, choose whether each one would be a major reason, a minor reason, or not a reason for NOT building an ADU on your property.",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q13B,"[A potential increase in property taxes] For each of the following reasons, choose whether each one would be a major reason, a minor reason, or not a reason for NOT building an ADU on your property.",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q13C,"[Having someone live close by] For each of the following reasons, choose whether each one would be a major reason, a minor reason, or not a reason for NOT building an ADU on your property.",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q13D,"[Having to take care of someone who needs care] For each of the following reasons, choose whether each one would be a major reason, a minor reason, or not a reason for NOT building an ADU on your property.",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q13E,"[Not wanting to be a landlord] For each of the following reasons, choose whether each one would be a major reason, a minor reason, or not a reason for NOT building an ADU on your property.",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q13F,"[Not knowing how to finance the home modifications] For each of the following reasons, choose whether each one would be a major reason, a minor reason, or not a reason for NOT building an ADU on your property.",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q13G,"[Not allowed due to local restrictions or zoning laws] For each of the following reasons, choose whether each one would be a major reason, a minor reason, or not a reason for NOT building an ADU on your property.",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q13H,"[Do not need one] For each of the following reasons, choose whether each one would be a major reason, a minor reason, or not a reason for NOT building an ADU on your property.",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q13I,"[Do not like them] For each of the following reasons, choose whether each one would be a major reason, a minor reason, or not a reason for NOT building an ADU on your property.",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q14A,[To lower your housing costs] Would you consider living in an ADU...?,1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q14B,[If you needed help with everyday activities such as household chores or transportation to places like the grocery store or do] Would you consider living in an ADU...?,1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q14C,[To live close by to someone but still live in your own separate space] Would you consider living in an ADU??,1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q15,As you grow older would you consider sharing your home with another person?,1,Yes
+,,2,No
+,,3,Currently share my home with someone
+,,77,Not sure
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q16A,[You needed extra income] Would sharing your home with another person be something you would consider if...?,1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q16B,[You needed help with everyday activities such as household chores or transportation to places like the grocery store or doctor's office] Would sharing your home with another person be something you would consider if...?,1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q16C,[You found yourself not wanting to live alone and wanting companionship] Would sharing your home with another person be something you would consider if...?,1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q17,Have you ever heard of ride-share companies such as Uber or Lyft?,1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q18,Have you ever used a ride-share company such as Uber or Lyft?,1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q19,"On average, how often do you use ride-share companies?",1,Once a week or more
+,,2,Several times a month
+,,3,Once a month
+,,4,A few times per year
+,,5,I have used it before but do not regularly use it
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q20,"Would you say you use ride-share for personal use, business use, or both?",1,Personal
+,,2,Business
+,,3,Both personal and business use
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q21,How satisfied were you with your most recent ride-share experience?,1,Not at all satisfied
+,,2,Not very satisfied
+,,3,Somewhat satisfied
+,,4,Very satisfied
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q22,How likely are you to use ride-share companies such as Uber or Lyft in the next year?,1,Not at all likely
+,,2,Not very likely
+,,3,Somewhat likely
+,,4,Very likely
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q23A,"[I don't know enough about these services.] Following is a list of reasons why some people might NOT use ride-share services such as Uber or Lyft. For you personally, choose whether each reason is a major reason, a minor reason, or not a reason.",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q23B,"[I have no need for these types of services.] Following is a list of reasons why some people might NOT use ride-share services such as Uber or Lyft. For you personally, choose whether each reason is a major reason, a minor reason, or not a reason.",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q23C,"[I don't understand how to use these services.] Following is a list of reasons why some people might NOT use ride-share services such as Uber or Lyft. For you personally, choose whether each reason is a major reason, a minor reason, or not a reason.",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q23D,"[I don't have the technology needed to get these services, such as a computer, smartphone or tablet.] Following is a list of reasons why some people might NOT use ride-share services such as Uber or Lyft. For you personally, choose whether each reason is a",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q23E,"[I don't trust the privacy or security of my financial information such as my credit card number.] Following is a list of reasons why some people might NOT use ride-share services such as Uber or Lyft. For you personally, choose whether each reason is a ma",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q23F,"[I don't trust the privacy or security of my personal information such as my address or phone number.] Following is a list of reasons why some people might NOT use ride-share services such as Uber or Lyft. For you personally, choose whether each reason is",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q23G,"[I don't trust the driver will be a safe driver.] Following is a list of reasons why some people might NOT use ride-share services such as Uber or Lyft. For you personally, choose whether each reason is a major reason, a minor reason, or not a reason.",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q23H,"[I am disabled and do not think the driver will be able to assist me.] Following is a list of reasons why some people might NOT use ride-share services such as Uber or Lyft. For you personally, choose whether each reason is a major reason, a minor reason,",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q23I,"[I am concerned about my personal safety or being physically hurt.] Following is a list of reasons why some people might NOT use ride-share services such as Uber or Lyft. For you personally, choose whether each reason is a major reason, a minor reason, or",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q23J,"[I live in a rural area and do not think it is available where I live.] Following is a list of reasons why some people might NOT use ride-share services such as Uber or Lyft. For you personally, choose whether each reason is a major reason, a minor reason,",1,Not a reason
+,,2,A minor reason
+,,3,A major reason
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24A,"[Walk] How do you usually get around your community for things like shopping, visiting the doctor, running errands, or other things?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24B,"[Drive yourself] How do you usually get around your community for things like shopping, visiting the doctor, running errands, or other things?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24C,"[Have others drive you] How do you usually get around your community for things like shopping, visiting the doctor, running errands, or other things?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24D,"[Take a taxi] How do you usually get around your community for things like shopping, visiting the doctor, running errands, or other things?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24E,"[Use a ride share company such as Uber or Lyft] How do you usually get around your community for things like shopping, visiting the doctor, running errands, or other things?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24F,"[Use a special transportation service, such as one for seniors or persons with disabilities] How do you usually get around your community for things like shopping, visiting the doctor, running errands, or other things?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24G,"[Use public transportation] How do you usually get around your community for things like shopping, visiting the doctor, running errands, or other things?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24H,"[Ride a bike] How do you usually get around your community for things like shopping, visiting the doctor, running errands, or other things?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24I,"[Some other way - please specify:] How do you usually get around your community for things like shopping, visiting the doctor, running errands, or other things?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24J,"[I do not get out of the house. ] How do you usually get around your community for things like shopping, visiting the doctor, running errands, or other things?",1,I do not get out of the house.
+Q24AA,"[Having a health condition that doesn't allow you to leave your home] Following is a list of reasons why some people might NOT be able to leave their home. For you personally, choose whether, each is a reason why you do not get out of your home.",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24AB,"[Not knowing how to drive] Following is a list of reasons why some people might NOT be able to leave their home. For you personally, choose whether, each is a reason why you do not get out of your home.",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24AC,"[Not being able to drive because of a health condition] Following is a list of reasons why some people might NOT be able to leave their home. For you personally, choose whether, each is a reason why you do not get out of your home.",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24AD,"[Not having vehicle] Following is a list of reasons why some people might NOT be able to leave their home. For you personally, choose whether, each is a reason why you do not get out of your home.",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24AE,"[Not being able to afford the costs associated with a vehicle such as insurance, gas, maintenance] Following is a list of reasons why some people might NOT be able to leave their home. For you personally, choose whether, each is a reason why you do not get",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24AF,"[Not having anyone to take you places] Following is a list of reasons why some people might NOT be able to leave their home. For you personally, choose whether, each is a reason why you do not get out of your home.",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24AG,"[Not having access to public transportation] Following is a list of reasons why some people might NOT be able to leave their home. For you personally, choose whether, each is a reason why you do not get out of your home.",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q24AH,"[Not being able to afford to pay for other methods of transportation such as public transportation, taxis, ride share services like Uber] Following is a list of reasons why some people might NOT be able to leave their home. For you personally, choose wheth",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q25,Have you ever heard of driverless or self-driving cars?,1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q26,How familiar would you say you are with driverless or self-driving cars?,1,Not at all familiar
+,,2,Not too familiar
+,,3,Somewhat familiar
+,,4,Very familiar
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q27,"If driverless or self-driving cars were available in your area today, how willing would you be to ride in a driverless or self-driving car?",1,Not at all willing
+,,2,Not very willing
+,,3,Somewhat willing
+,,4,Very willing
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_1A,[Well-maintained parks that can accommodate people of all ages and physical abilities] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_1B,[Safe parks] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_1C,[Public buildings and spaces including restrooms that are accessible to people of different physical abilities] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_1D,"[Enough benches for resting in public areas like parks, along sidewalks, and around public buildings] How important it is it to you personally to have the following in your community right now?",1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_1E,[Conveniently located urgent care centers] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_1F,[Well-maintained hospitals and health care facilities] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_1G,[Conveniently located public parking lots including parking for people with disabilities] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_1H,[Affordable public parking] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_1I,[Conveniently located hospitals and health care facilities] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_1J,[Conveniently located grocery stores] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_1K,[Farmer?s markets] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_2A,"[Affordable housing options for adults of varying income levels such as older active adult communities, assisted living and communities with shared facilities and outdoor spaces] How important it is it to you personally to have the following in your commun",1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_2B,"[Homes that are built for easier access with things like an entrance without steps, wider doorways, and first floor bedrooms and bathrooms] How important it is it to you personally to have the following in your community right now?",1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_2C,"[Well-maintained, safe low-income housing] How important it is it to you personally to have the following in your community right now?",1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_2D,"[Home modification and repair contractors who are trustworthy, affordable and do quality work] How important it is it to you personally to have the following in your community right now?",1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_2E,[A home repair service for low-income and older adults that helps with things like roof or window repairs] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_2F,[Seasonal services such as lawn work for low-income and older adults] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_3A,[Public transportation that is close to your home] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_3B,[Affordable public transportation] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_3C,[Well-maintained public transportation vehicles] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_3D,[Timely public transportation] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_3E,[Safe public transportation stops or areas that are accessible to people of varying physical abilities] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_3F,[Special transportation services for people with disabilities and older adults] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_4A,"[Sidewalks that are in good condition, safe for pedestrians, and accessible for wheelchairs or other assistive mobility devices] How important it is it to you personally to have the following in your community right now?",1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_4B,"[Streets and intersections that are well-lit, accessible and safe for all users] How important it is it to you personally to have the following in your community right now?",1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_4C,[Pedestrian crossings that have both audio and visual signals] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_4D,[Separate pathways for bicyclists and pedestrians] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_4E,[Well-maintained streets] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_4F,[Easy to read traffic signs] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_4G,[Enforced speed limits] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_5A,[Conveniently located entertainment venues] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_5B,[Activities geared specifically towards older adults] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_5C,[Activities that offer senior discounts] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_5D,[Activities that are affordable to all residents] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_5E,[Activities that involve both younger and older people] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_5F,[A variety of cultural activities] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_5G,[Local schools that involve older adults in events and activities] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_5H,[Continuing education classes] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_5I,"[Social clubs to pursue new interests, hobbies or passions] How important it is it to you personally to have the following in your community right now?",1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_5J,[Affordable fitness activities] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_5K,[Activities specifically geared towards adults with dementia] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_5L,[Places to meet and socialize with friends and neighbors] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_6A,[A range of volunteer activities to choose from] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_6B,[Volunteer training opportunities to help people perform better in their volunteer roles] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_6C,[Opportunities for older adults to participate in decision-making bodies such as community councils or committees] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_6D,[Easy to find information on local volunteer opportunities] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_6E,[Transportation to and from volunteer activities for those who need it] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_7A,[A range of flexible job opportunities for older adults] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_7B,[Job training opportunities for older adults who want to learn new job skills or get training in a different field of work] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_7C,[Jobs that are adapted to meet the needs of people with disabilities] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q28_7D,[Policies to ensure that older adults can have equal opportunity to work for as long as they want or need to regardless of their age] How important it is it to you personally to have the following in your community right now?,1,Not at all important
+,,2,Not very important
+,,3,Somewhat important
+,,4,Very important
+,,5,Extremely important
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q29,How interested would you be in joining a village in your area?,1,Not at all interested
+,,2,Not very interested
+,,3,Somewhat interested
+,,4,Very interested
+,,5,Extremely interested
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+Q30,How willing would you be to pay an annual fee based on income for access to services offered through a village organization?,1,Not at all willing
+,,2,Not very willing
+,,3,Somewhat willing
+,,4,Very willing
+,,5,Extremely willing
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D4,Are you [or your partner/spouse] currently a member of AARP?,1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D5A,"[Child/children under 18] Besides you, do you have any of the following people living in your household?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D5B,"[Child/children 18 or older] Besides you, do you have any of the following people living in your household?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D5C,"[Child/children away at college] Besides you, do you have any of the following people living in your household?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D5D,"[Parents] Besides you, do you have any of the following people living in your household?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D5E,"[Other adult relative or friend 18 or older] Besides you, do you have any of the following people living in your household?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D6,In general is your health...?,1,Poor
+,,2,Fair
+,,3,Good
+,,4,Very good
+,,5,Excellent
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D7A,"Does any disability, handicap, or chronic disease keep you or your [spouse/partner] from participating fully in work, school, housework, or other activities?",1,"Yes, myself"
+,,2,"Yes, my [Y_D7A]"
+,,3,"Yes, both myself and my [Y_D7A]"
+,,4,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D7B,"Does any disability, handicap, or chronic disease keep you from participating fully in work, school, housework, or other activities?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D8,"How often do you have contact with family, friends, or neighbors who do not live with you?",1,Never
+,,2,Less than monthly
+,,3,Once a month
+,,4,Once every 2 or 3 weeks
+,,5,Once a week
+,,6,Several times a week
+,,7,Everyday
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D9A,[I lack companionship] How often do you feel the following?,1,Never
+,,2,Rarely
+,,3,Sometimes
+,,4,Often
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D9B,[I feel left out] How often do you feel the following?,1,Never
+,,2,Rarely
+,,3,Sometimes
+,,4,Often
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D9C,[I feel isolated from others] How often do you feel the following?,1,Never
+,,2,Rarely
+,,3,Sometimes
+,,4,Often
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D10,"If you were in trouble, do you have friends or family who can help you at any time of the day or night?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D11_1,"[Yes, I currently serve] Do you or your [partner/spouse] currently serve or have either of you ever served in any branch of the United States Military?",0,No
+,,1,Yes
+D11_2,"[Yes, I served in the past] Do you or your [partner/spouse] currently serve or have either of you ever served in any branch of the United States Military?",0,No
+,,1,Yes
+D11_3,"[No, I never served] Do you or your [partner/spouse] currently serve or have either of you ever served in any branch of the United States Military?",0,No
+,,1,Yes
+D11_4,"[Yes, my spouse/partner currently serves] Do you or your [partner/spouse] currently serve or have either of you ever served in any branch of the United States Military?",0,No
+,,1,Yes
+D11_5,"[Yes, my spouse/partner has served in the past] Do you or your [partner/spouse] currently serve or have either of you ever served in any branch of the United States Military?",0,No
+,,1,Yes
+D11_6,"[No, my spouse/partner has never served] Do you or your [partner/spouse] currently serve or have either of you ever served in any branch of the United States Military?",0,No
+,,1,Yes
+D11_DK,[DON'T KNOW] Do you or your [partner/spouse] currently serve or have either of you ever served in any branch of the United States Military?,0,No
+,,1,Yes
+D11_SKP,[SKIPPED ON WEB] Do you or your [partner/spouse] currently serve or have either of you ever served in any branch of the United States Military?,0,No
+,,1,Yes
+D11_REF,[REFUSED] Do you or your [partner/spouse] currently serve or have either of you ever served in any branch of the United States Military?,0,No
+,,1,Yes
+HHSERVACT,HH LEVEL MEASURES - active service,1,RESPONDENT CURRENTLY SERVE
+,,2,PARTER CURRENTLY SERVE
+,,3,BOTH CURRENTLY SERVE
+D13,DATA-ONLY: HOUSEHOLD EVER SERVED,1,"Yes, I currently serve"
+,,2,"Yes, I served in the past"
+,,3,"No, I never served"
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D14,"In the past 12 months, have you volunteered for a nonprofit organization, charity, school, hospital, religious organization, civic group, or similar organization without receiving any money for your help?",1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D15,Are you currently a family caregiver providing this kind of help for free to an adult loved one to help them take care of themselves?,1,Yes
+,,2,No
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D16,How likely is it that you will provide unpaid care to an adult loved one in the future?,1,Not at all likely
+,,2,Not very likely
+,,3,Somewhat likely
+,,4,Very likely
+,,5,Extremely likely
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D18,What is your current employment status?,1,Self-employed full-time
+,,2,Self-employed part-time
+,,3,Employed full-time
+,,4,Employed part-time
+,,5,Retired and not working at all
+,,6,Unemployed and looking for work
+,,7,Or are you not in the labor force for other reasons
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D20,"When you are at home, do you...?",1,Speak Spanish only
+,,2,Speak Spanish most of the time
+,,3,Speak Spanish and English equally
+,,4,Speak English most of the time
+,,5,Speak English only
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D22,"Thinking about your state elections for Governor and Legislators in the last 10 years, how often would you say you vote?",1,Always
+,,2,Most of the time
+,,3,About half of the time
+,,4,Seldom
+,,5,Never
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+PartyID5,DATA-ONLY: Computed 5-level Party ID,-1,Unknown
+,,1,Democrat
+,,2,Lean Democrat
+,,3,Don't Lean/Independent/None
+,,4,Lean Republican
+,,5,Republican
+PARTYID7,DATA-ONLY: Computed 7-level Party ID,-1,Unknown
+,,1,Strong Democrat
+,,2,Moderate Democrat
+,,3,Lean Democrat
+,,4,Don't Lean/Independent/None
+,,5,Lean Republican
+,,6,Moderate Republican
+,,7,Strong Republican
+D24A,"[Employment wages or salary] For each of the following possible sources of income, please indicate whether it is a major source of income, a minor source of income, or not a source of income for your household.",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D24B,"[Social Security] For each of the following possible sources of income, please indicate whether it is a major source of income, a minor source of income, or not a source of income for your household.",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D24C,"[Disability pension other than Social Security] For each of the following possible sources of income, please indicate whether it is a major source of income, a minor source of income, or not a source of income for your household.",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D24D,"[Supplemental Security Income or SSI] For each of the following possible sources of income, please indicate whether it is a major source of income, a minor source of income, or not a source of income for your household.",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D24E,"[VA payments] For each of the following possible sources of income, please indicate whether it is a major source of income, a minor source of income, or not a source of income for your household.",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D24F,"[Worker's compensation or unemployment compensation] For each of the following possible sources of income, please indicate whether it is a major source of income, a minor source of income, or not a source of income for your household.",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D24G,"[Retirement income] For each of the following possible sources of income, please indicate whether it is a major source of income, a minor source of income, or not a source of income for your household.",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D24H,"[Other personal savings or investments outside of a retirement account, such as mutual funds, stocks, certificates of deposit, or annuities] For each of the following possible sources of income, please indicate whether it is a major source of income, a min",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D24I,"[Inheritance] For each of the following possible sources of income, please indicate whether it is a major source of income, a minor source of income, or not a source of income for your household.",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D24J,"[Child support or alimony] For each of the following possible sources of income, please indicate whether it is a major source of income, a minor source of income, or not a source of income for your household.",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D24K,"[Rental income from property] For each of the following possible sources of income, please indicate whether it is a major source of income, a minor source of income, or not a source of income for your household.",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D24L,"[Income from royalties, estates, or trusts] For each of the following possible sources of income, please indicate whether it is a major source of income, a minor source of income, or not a source of income for your household.",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D24M,"[Cash assistance from a state or county welfare program] For each of the following possible sources of income, please indicate whether it is a major source of income, a minor source of income, or not a source of income for your household.",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D24N,"[Other - please specify:] For each of the following possible sources of income, please indicate whether it is a major source of income, a minor source of income, or not a source of income for your household.",1,Not a source
+,,2,Minor source
+,,3,Major source
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+D26,Which best describes the community where you live?,1,"Urban near mix of offices, apartments and shops"
+,,2,Urban and mostly residential
+,,3,"Suburban with a mix of offices, apartments and shops"
+,,4,Suburban and mostly residential
+,,5,Small town
+,,6,Rural area
+,,77,DON’T KNOW
+,,98,SKIPPED ON WEB
+,,99,REFUSED
+SURV_MODE,Survey interview mode (online or phone),1,Phone interview
+,,2,Web Interview
+SURV_LANG,Survey Interview Language,1,English
+,,2,Spanish
+GENDER,Respondent gender,0,Unknown
+,,1,Male
+,,2,Female
+AGE4,Age - 4 Categories,1,18-29
+,,2,30-44
+,,3,45-59
+,,4,60+
+,,99,Under 18
+AGE7,Age - 7 Categories,1,18-24
+,,2,25-34
+,,3,35-44
+,,4,45-54
+,,5,55-64
+,,6,65-74
+,,7,75+
+,,99,Under 18
+RACETHNICITY,Combined Race/Ethnicity,1,"White, non-Hispanic"
+,,2,"Black, non-Hispanic"
+,,3,"Other, non-Hispanic"
+,,4,Hispanic
+,,5,"2+, non-Hispanic"
+,,6,"Asian, non-Hispanic"
+EDUC,Education (Highest Degree Received),1,No formal education
+,,2,"1st, 2nd, 3rd, or 4th grade"
+,,3,5th or 6th grade
+,,4,7th or 8th grade
+,,5,9th grade
+,,6,10th grade
+,,7,11th grade
+,,8,12th grade NO DIPLOMA
+,,9,HIGH SCHOOL GRADUATE - high school DIPLOMA or the equivalent (GED)
+,,10,"Some college, no degree"
+,,11,Associate degree
+,,12,Bachelors degree
+,,13,Masters degree
+,,14,Professional or Doctorate degree
+EDUC4,4-level education,1,No HS diploma
+,,2,HS graduate or equivalent
+,,3,Some college
+,,4,BA or above
+MARITAL,Marital Status,1,Married
+,,2,Widowed
+,,3,Divorced
+,,4,Separated
+,,5,Never married
+,,6,Living with partner
+EMPLOY,Current Employment Status,1,Working - as a paid employee
+,,2,Working - self-employed
+,,3,Not working - on temporary layoff from a job
+,,4,Not working - looking for work
+,,5,Not working - retired
+,,6,Not working - disabled
+,,7,Not working - other
+INCOME,Household Income,1,"Less than $5,000"
+,,2,"$5,000 to $9,999"
+,,3,"$10,000 to $14,999"
+,,4,"$15,000 to $19,999"
+,,5,"$20,000 to $24,999"
+,,6,"$25,000 to $29,999"
+,,7,"$30,000 to $34,999"
+,,8,"$35,000 to $39,999"
+,,9,"$40,000 to $49,999"
+,,10,"$50,000 to $59,999"
+,,11,"$60,000 to $74,999"
+,,12,"$75,000 to $84,999"
+,,13,"$85,000 to $99,999"
+,,14,"$100,000 to $124,999"
+,,15,"$125,000 to $149,999"
+,,16,"$150,000 to $174,999"
+,,17,"$175,000 to $199,999"
+,,18,"$200,000 or more"
+STATE,State,77,DON'T KNOW
+,,99,REFUSED
+,,AK,Alaska
+,,AL,Alabama
+,,AR,Arkansas
+,,AZ,Arizona
+,,CA,California
+,,CO,Colorado
+,,CT,Connecticut
+,,DC,District of Columbia
+,,DE,Delaware
+,,FL,Florida
+,,GA,Georgia
+,,HI,Hawaii
+,,IA,Iowa
+,,ID,Idaho
+,,IL,Illinois
+,,IN,Indiana
+,,KS,Kansas
+,,KY,Kentucky
+,,LA,Louisiana
+,,MA,Massachusetts
+,,MD,Maryland
+,,ME,Maine
+,,MI,Michigan
+,,MN,Minnesota
+,,MO,Missouri
+,,MS,Mississippi
+,,MT,Montana
+,,NC,North Carolina
+,,ND,North Dakota
+,,NE,Nebraska
+,,NH,New Hampshire
+,,NJ,New Jersey
+,,NM,New Mexico
+,,NV,Nevada
+,,NY,New York
+,,OE,Oregon
+,,OH,Ohio
+,,OK,Oklahoma
+,,OR,Oregon
+,,PA,Pennsylvania
+,,RI,Rhode Island
+,,SC,South Carolina
+,,SD,South Dakota
+,,TN,Tennessee
+,,TX,Texas
+,,UT,Utah
+,,VA,Virginia
+,,VI,Virgin Islands
+,,VT,Vermont
+,,WA,Washington
+,,WI,Wisconsin
+,,WV,West Virginia
+,,WY,Wyoming
+REGION4,4-level region,1,Northeast
+,,2,Midwest
+,,3,South
+,,4,West
+REGION9,9-level region,1,New England
+,,2,Mid-Atlantic
+,,3,East North Central
+,,4,West North Central
+,,5,South Atlantic
+,,6,East South Central
+,,7,West South Central
+,,8,Mountain
+,,9,Pacific
+METRO,Metropolitan area flag,0,Non-Metro Area
+,,1,Metro Area
+INTERNET,"HH internet access via dial-up, DSL, or cable broadband at home",0,Non-internet household
+,,1,Internet Household
+HOUSING,Home Ownership,1,Owned or being bought by you or someone in your household
+,,2,Rented for cash
+,,3,Occupied without payment of cash rent
+HOME_TYPE,Type of building of panelists' residence,1,A one-family house detached from any other house
+,,2,A one-family house attached to one or more houses
+,,3,A building with 2 or more apartments
+,,4,A mobile home or trailer
+,,5,"Boat, RV, van, etc"
+PHONESERVICE,Telephone service for the household,1,Landline telephone only
+,,2,"Have a landline, but mostly use cellphone"
+,,3,"Have cellphone, but mostly use landline"
+,,4,Cellphone only
+,,5,No telephone service
